@@ -1,2 +1,2 @@
 # web-development-portfolio
-#this is a html project
+this is a html portfolio project
